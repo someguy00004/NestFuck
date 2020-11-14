@@ -6,4 +6,4 @@ Write your program in program.txt. This file currently contains a hello world pr
 Debug information can be found in debug.txt
 
 For extended information, see NestFuck Guide.
-If you require additional help, or encounter an error with the interpreter, email archiewheeler88@gmail.com
+If you require additional help, or encounter an error with the interpreter, open an issue.
